@@ -2,18 +2,18 @@
 layout: default
 ---
 
-I'm a post doctoral research fellow in global seismology at University College London. My research focuses on high-resolution imaging of the Earth's mantle and crust using surface wave measurements, particularly focusing on imaging mantle anisotropy and attenuation. I'm also interested in constraining geodynamic models with seismic observations.
+I'm a post doctoral research fellow in global seismology at University College London (UCL). My research focuses on high-resolution imaging of the Earth's mantle and crust using surface wave measurements, particularly focusing on imaging mantle anisotropy and attenuation. I'm also interested in constraining geodynamic models with seismic observations.
 
 ### Research interests
 
-*   Global seismic tomography, attenuation, radial anisotropy
-*   Inverse theory, big data, global optimisation
-*   Constraining geodynamics using seismology
+* Global seismic tomography, attenuation, radial anisotropy
+* Inverse theory, big data, global optimisation
+* Constraining geodynamics using seismology
 
 ### Education
 
 * Ph.D. in Seismology, University College London (UCL), 2022
-* *MSci in Geophysics, University College London (UCL), 2017
+* MSci in Geophysics, University College London (UCL), 2017
 
 ### Publications
 
