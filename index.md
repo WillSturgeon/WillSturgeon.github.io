@@ -2,11 +2,9 @@
 layout: default
 ---
 
-#Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[this page is very exciting](./another-page.html).
-
 Post doctoral research fellow in global seismology at University College London.
+
+I completed my PhD in seismology in 2022 and MSci Geophysics at UCL in 2017.
 
 #### Research interests
 
@@ -18,25 +16,32 @@ Post doctoral research fellow in global seismology at University College London.
 
 **Sturgeon, W.**, Ferreira, A.M., Schardong, L. and Marignier, A., 2023. Crustal structure of the Western US from Rayleigh and Love wave amplification data. Journal of Geophysical Research: Solid Earth, 128(8), p.e2022JB026148.
 
+**Sturgeon, W.H., 2022**. Using surface wave amplitude measurements to constrain elastic and anelastic Earth structure (Doctoral dissertation, UCL (University College London)). _PhD Thesis_
+
 Schardong, L., Ferreira, A.M., Berbellini, A. and **Sturgeon, W.**, 2019. The anatomy of uppermost mantle shear-wave speed anomalies in the western US from surface-wave amplification. Earth and Planetary Science Letters, 528, p.115822.
 
 **Sturgeon, W.**, Ferreira, A.M., Faccenda, M., Chang, S.J. and Schardong, L., 2019. On the origin of radial anisotropy near subducted slabs in the midmantle. Geochemistry, Geophysics, Geosystems, 20(11), pp.5105-5125.
 
 Ferreira, A.M., Faccenda, M., **Sturgeon, W.**, Chang, S.J. and Schardong, L., 2019. Ubiquitous lower-mantle anisotropy beneath subduction zones. Nature Geoscience, 12(4), pp.301-306.
 
+# Teaching
+
+* First year module: Matlab for Earth Sciences (2017-2020)
+* Third year module: Geodynamics and Global Tectonics (2018-2019)
+* Third year module: Field Geophysics (2017-2021)
+* Fourth year module: Seismology II (2019-2020)
+
+# Research presenations
+
+* AGU 2023 poster "Towards constraining mantle flow through global radial anisotropy tomography with uncertainty quantification"
+* AGU 2023 poster "Towards 3D imaging of Rayleigh wave mantle attenuation with uncertainty quantification"
+* EGU 2023 talk "Towards constraining mantle flow through imaging of radial anisotropy, with full uncertainty quantification"
+* AGU 2021 talk "Crustal structure of the Western US from Rayleigh and Love wave amplification"
+* AGU 2021 talk "Towards probabilistic inversions of global Rayleigh wave mantle attenuation"
+* AGU 2019 poster "Imaging mantle structure with amplitude data alone: application to the western US"
+* AGU 2019 talk "Lower Mantle Anisotropy Beneath Subduction Zones
+
 # Outreach projects
 
 Earth sciences christmas baubles project
-
-# Google scholar 
-[Link to another page](./https://scholar.google.co.uk/citations?user=W0q-cs0AAAAJ&hl=en&oi=ao).
-
-# Twitter 
-[Link to another page](./https://twitter.com/WillSturge).
-
-# ORCID 
-[Link to another page](.https://orcid.org/0000-0002-1954-0889).
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+[this page is very exciting](./another-page.html).
