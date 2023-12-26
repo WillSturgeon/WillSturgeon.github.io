@@ -4,7 +4,7 @@ layout: default
 
 #Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[this page is very exciting](./another-page.html).
 
 Post doctoral research fellow in global seismology at University College London.
 
