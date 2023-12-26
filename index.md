@@ -46,7 +46,7 @@ I took part in a four-week field campaign installing and retrieving 10 broadband
 * AGU 2021 talk "Crustal structure of the Western US from Rayleigh and Love wave amplification"
 * AGU 2021 talk "Towards probabilistic inversions of global Rayleigh wave mantle attenuation"
 * AGU 2019 poster "Imaging mantle structure with amplitude data alone: application to the western US"
-* AGU 2019 talk "Lower Mantle Anisotropy Beneath Subduction Zones
+* AGU 2019 talk "Lower Mantle Anisotropy Beneath Subduction Zones"
 
 ### Outreach projects
 
