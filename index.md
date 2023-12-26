@@ -22,10 +22,22 @@ Schardong, L., Ferreira, A.M., Berbellini, A. and **Sturgeon, W.**, 2019. The an
 
 Ferreira, A.M., Faccenda, M., **Sturgeon, W.**, Chang, S.J. and Schardong, L., 2019. Ubiquitous lower-mantle anisotropy beneath subduction zones. Nature Geoscience, 12(4), pp.301-306.
 
+# Education
+ul {
+  list-style-type: none; /* Remove default bullets */
+}
+
+li::before {
+  content: '\1F393'; /* Unicode character for a mortar board symbol */
+  font-size: 1.2em; /* Adjust the size of the symbol */
+  margin-right: 8px; /* Adjust the space between the symbol and the text */
+}
+
+
+
 # Fieldwork
 
-I took part in a four-week field campaign installing and retrieving 10 broadband seismometers in the Azores archipelago in response to the seismic swarm in March 2022?. I wrote a blog on the experience, which you can find <a href="https://blogs.egu.eu/divisions/sm/2023/01/09/azores-seismic-deployment-2022/" target="_blank">here.</a>
-
+I took part in a four-week field campaign installing and retrieving 10 broadband seismometers in the Azores archipelago in response to the seismic swarm in March 2022. I wrote a blog on the experience, which you can find <a href="https://blogs.egu.eu/divisions/sm/2023/01/09/azores-seismic-deployment-2022/" target="_blank">here.</a>
 
 # Teaching
 
@@ -34,7 +46,7 @@ I took part in a four-week field campaign installing and retrieving 10 broadband
 * Third year module: Field Geophysics (2017-2021)
 * Fourth year module: Seismology II (2019-2020)
 
-# Research presenations
+# Research presentations
 
 * AGU 2023 poster "Towards constraining mantle flow through global radial anisotropy tomography with uncertainty quantification"
 * AGU 2023 poster "Towards 3D imaging of Rayleigh wave mantle attenuation with uncertainty quantification"
