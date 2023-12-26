@@ -2,9 +2,7 @@
 layout: default
 ---
 
-Post doctoral research fellow in global seismology at University College London.
-
-I completed my PhD in seismology in 2022 and MSci Geophysics at UCL in 2017.
+I'm a post doctoral research fellow in global seismology at University College London. I also completed my PhD in seismology (2022) and MSci Geophysics at UCL (2017). My research focuses on imaging the Earth's mantle and crust using surface wave measurements, particularly focusing in imaging the Earth's anisotropy and attenuation.  
 
 #### Research interests
 
@@ -23,6 +21,11 @@ Schardong, L., Ferreira, A.M., Berbellini, A. and **Sturgeon, W.**, 2019. The an
 **Sturgeon, W.**, Ferreira, A.M., Faccenda, M., Chang, S.J. and Schardong, L., 2019. On the origin of radial anisotropy near subducted slabs in the midmantle. Geochemistry, Geophysics, Geosystems, 20(11), pp.5105-5125.
 
 Ferreira, A.M., Faccenda, M., **Sturgeon, W.**, Chang, S.J. and Schardong, L., 2019. Ubiquitous lower-mantle anisotropy beneath subduction zones. Nature Geoscience, 12(4), pp.301-306.
+
+# Fieldwork
+
+I took part in a four-week field campaign installing and retrieving 10 broadband seismometers in the Azores archipelago in response to the seismic swarm in March 2022?. I wrote a blog on the experience, which you can find here. <li><a href="https://blogs.egu.eu/divisions/sm/2023/01/09/azores-seismic-deployment-2022/" target="_blank">External Link</a></li>
+
 
 # Teaching
 
