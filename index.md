@@ -23,16 +23,10 @@ Schardong, L., Ferreira, A.M., Berbellini, A. and **Sturgeon, W.**, 2019. The an
 Ferreira, A.M., Faccenda, M., **Sturgeon, W.**, Chang, S.J. and Schardong, L., 2019. Ubiquitous lower-mantle anisotropy beneath subduction zones. Nature Geoscience, 12(4), pp.301-306.
 
 # Education
-ul {
-  list-style-type: none; /* Remove default bullets */
-}
-
-li::before {
-  content: '\1F393'; /* Unicode character for a mortar board symbol */
-  font-size: 1.2em; /* Adjust the size of the symbol */
-  margin-right: 8px; /* Adjust the space between the symbol and the text */
-}
-
+<ul class="mortar-board-list">
+  <li>**Ph.D. in Seismology**<br> *University College London (UCL), 2022*</li>
+  <li>**MSci in Geophysics**<br> *University College London (UCL), 2017*</li>
+</ul>
 
 
 # Fieldwork
