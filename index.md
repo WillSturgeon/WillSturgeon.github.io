@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a post doctoral research fellow in global seismology at University College London. I also completed my PhD in seismology (2022) and MSci Geophysics at UCL (2017). My research focuses on imaging the Earth's mantle and crust using surface wave measurements, particularly focusing in imaging the Earth's anisotropy and attenuation.  
+I'm a post doctoral research fellow in global seismology at University College London. I also completed my PhD in seismology (2022) and MSci Geophysics at UCL (2017). My research focuses on imaging the Earth's mantle and crust using surface wave measurements, particularly focusing on imaging the anisotropy and attenuation.  
 
 #### Research interests
 
@@ -24,7 +24,7 @@ Ferreira, A.M., Faccenda, M., **Sturgeon, W.**, Chang, S.J. and Schardong, L., 2
 
 # Fieldwork
 
-I took part in a four-week field campaign installing and retrieving 10 broadband seismometers in the Azores archipelago in response to the seismic swarm in March 2022?. I wrote a blog on the experience, which you can find here. <li><a href="https://blogs.egu.eu/divisions/sm/2023/01/09/azores-seismic-deployment-2022/" target="_blank">External Link</a></li>
+I took part in a four-week field campaign installing and retrieving 10 broadband seismometers in the Azores archipelago in response to the seismic swarm in March 2022?. I wrote a blog on the experience, which you can find <a href="https://blogs.egu.eu/divisions/sm/2023/01/09/azores-seismic-deployment-2022/" target="_blank">here.</a>
 
 
 # Teaching
