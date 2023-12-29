@@ -4,9 +4,9 @@ layout: default
 
 Hi, welcome to my research website!
 
-I'm a post doctoral research fellow in global seismology at University College London (UCL). My research focuses on seismic imaging of the Earth's mantle and crust using surface wave measurements. My research expertise is using suface wave amplitude measurements to constrain Earth structure. During my Ph.D. I built a regional crustal model of the western U.S., as well as global mantle attenuation model. 
+I'm a post doctoral research fellow in global seismology at University College London (UCL), UK. My research focuses on seismic imaging of the Earth's mantle and crust using surface wave measurements. My research expertise is using suface wave amplitude measurements to constrain Earth structure. During my Ph.D. I built a regional crustal model of the western U.S., as well as global mantle attenuation model. 
 
-Now, I'm building a global radial anisotropy model of the Earth's mantle with uncertainty quantification, as part of the <a href="https://www.cardiff.ac.uk/research/explore/find-a-project/view/2592859-mc2-mantle-circulation-constrained" target="_blank">Mantle Circulation Constrained (MC^2) project..</a>. This project aims to model 1 billion years of mantle flow, which will be constrained with the global model I am building. 
+Now, I'm building a global radial anisotropy model of the Earth's mantle with uncertainty quantification, as part of the <a href="https://www.cardiff.ac.uk/research/explore/find-a-project/view/2592859-mc2-mantle-circulation-constrained" target="_blank">Mantle Circulation Constrained (MC^2) project</a>. This project aims to model 1 billion years of mantle flow, which will be constrained with the global model radial anisotropy that I am building. 
 
 ### Research interests
 
