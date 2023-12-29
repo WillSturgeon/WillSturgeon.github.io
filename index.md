@@ -2,12 +2,16 @@
 layout: default
 ---
 
-I'm a post doctoral research fellow in global seismology at University College London (UCL). My research focuses on high-resolution imaging of the Earth's mantle and crust using surface wave measurements, particularly focusing on imaging mantle anisotropy and attenuation. I'm also interested in constraining geodynamic models with seismic observations.
+Hi, welcome to my research website!
+
+I'm a post doctoral research fellow in global seismology at University College London (UCL). My research focuses on seismic imaging of the Earth's mantle and crust using surface wave measurements. My research expertise is using suface wave amplitude measurements to constrain Earth structure. During my Ph.D. I built a regional crustal model of the western U.S., as well as global mantle attenuation model. 
+
+Now, I'm building a global radial anisotropy model of the Earth's mantle with uncertainty quantification, as part of the <a href="https://www.cardiff.ac.uk/research/explore/find-a-project/view/2592859-mc2-mantle-circulation-constrained" target="_blank">Mantle Circulation Constrained (MC^2) project..</a>. This project aims to model 1 billion years of mantle flow, which will be constrained with the global model I am building. 
 
 ### Research interests
 
 * Global seismic tomography, attenuation, radial anisotropy
-* Inverse theory, big data, global optimisation
+* Inverse theory, global optimisation
 * Constraining geodynamics using seismology
 
 ### Education
@@ -17,17 +21,7 @@ I'm a post doctoral research fellow in global seismology at University College L
 
 ### Publications
 
-[Papers can be found here ](./papers.html).
-
-**Sturgeon, W.**, Ferreira, A.M., Schardong, L. and Marignier, A., 2023. Crustal structure of the Western US from Rayleigh and Love wave amplification data. Journal of Geophysical Research: Solid Earth, 128(8), p.e2022JB026148.
-
-**Sturgeon, W.H., 2022**. Using surface wave amplitude measurements to constrain elastic and anelastic Earth structure (Doctoral dissertation, UCL (University College London)). _PhD Thesis_
-
-Schardong, L., Ferreira, A.M., Berbellini, A. and **Sturgeon, W.**, 2019. The anatomy of uppermost mantle shear-wave speed anomalies in the western US from surface-wave amplification. Earth and Planetary Science Letters, 528, p.115822.
-
-**Sturgeon, W.**, Ferreira, A.M., Faccenda, M., Chang, S.J. and Schardong, L., 2019. On the origin of radial anisotropy near subducted slabs in the midmantle. Geochemistry, Geophysics, Geosystems, 20(11), pp.5105-5125.
-
-Ferreira, A.M., Faccenda, M., **Sturgeon, W.**, Chang, S.J. and Schardong, L., 2019. Ubiquitous lower-mantle anisotropy beneath subduction zones. Nature Geoscience, 12(4), pp.301-306.
+[Publications list](./papers.html).
 
 ### Fieldwork
 
