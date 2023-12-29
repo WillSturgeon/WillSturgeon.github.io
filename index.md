@@ -17,6 +17,8 @@ I'm a post doctoral research fellow in global seismology at University College L
 
 ### Publications
 
+[Papers can be found here ](./papers.html).
+
 **Sturgeon, W.**, Ferreira, A.M., Schardong, L. and Marignier, A., 2023. Crustal structure of the Western US from Rayleigh and Love wave amplification data. Journal of Geophysical Research: Solid Earth, 128(8), p.e2022JB026148.
 
 **Sturgeon, W.H., 2022**. Using surface wave amplitude measurements to constrain elastic and anelastic Earth structure (Doctoral dissertation, UCL (University College London)). _PhD Thesis_
